@@ -6,8 +6,6 @@
 
 Not selected
 
-
-
 ### Home PAGE
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/78966839/189512681-699b3e87-8cbd-4b42-a37b-10647909a081.png">
 
@@ -19,6 +17,3 @@ Not selected
 
 ### CONTACT PAGE
 <img width="772" alt="image" src="https://user-images.githubusercontent.com/78966839/189512693-fa941a67-8761-4b9e-a5ea-4873c3dbe4a4.png">
-
-
-
